@@ -55,7 +55,7 @@ header ul li {
 }
 header ul li a {
     text-decoration: none;
-    font-size: 20px;
+    font-size: 28px;
     color: #7c6d6d;
 }
 header ul li a.active {
@@ -274,21 +274,20 @@ header .cover p {
         margin: auto;
     }
     header .cover .image img:first-child {
-        width: 242px;
+        width: 327px;
     }
     header .cover .image img:nth-child(2) {
-        top: 0px;
-        right: 18px;
-        width: 125px;
+        top: -46px;
+        right: 45px;
+        width: 199px;
     }
     header .cover .image img:nth-child(3) {
-        top: 145px;
-        right: 12px;
-        width: 156px;
+        top: 202px;
+        right: 54px;
+        width: 191px;
     }
     header .cover .image img:last-child {
-        right: 300px;
-        width: 900px;
+        display: none
     }
     header .cover .text {
         text-align: center;
@@ -313,7 +312,7 @@ header .cover p {
 }
 .why .container {
     position: relative;
-    height: 100vh;
+    height: 650px;
 }
 .why .container div {
     width: 30%;
