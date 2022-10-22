@@ -538,6 +538,7 @@ header .cover p {
 footer {
     background-image: url(../images/Group\ 1131.png);
     background-size: 120% 655px;
+    background-position-x: center;
     padding-top: 269px;
     position: relative;
 }
@@ -548,7 +549,7 @@ footer .container {
 footer img {
     width: 550px;
     position: absolute;
-    top: 100px;
+    top: 110px;
     right: 0;
 }
 footer .links {
