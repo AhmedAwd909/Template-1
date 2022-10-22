@@ -148,6 +148,9 @@ header .cover p {
     }
 }
 @media only screen and (min-width: 769px) and (max-width: 991px) {
+    header ul li a {
+        font-size: 20px;
+    }
     header .cover .image img:first-child {
         width: 400px;
     }
