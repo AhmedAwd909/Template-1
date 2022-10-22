@@ -141,8 +141,7 @@ header .cover p {
         width: 300px;
     }
     header .cover .image img:last-child {
-        right: 300px;
-        width: 900px;
+        display: none
     }
     header .cover h1 {
         text-align: center;
@@ -163,8 +162,8 @@ header .cover p {
         width: 234px;
     }
     header .cover .image img:last-child {
-        right: 300px;
-        width: 900px;
+         display: none
+
     }
     header .cover .text {
         text-align: center;
@@ -220,8 +219,7 @@ header .cover p {
         width: 156px;
     }
     header .cover .image img:last-child {
-        right: 300px;
-        width: 900px;
+         display: none
     }
     header .cover .text {
         text-align: center;
