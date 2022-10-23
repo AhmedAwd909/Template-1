@@ -330,7 +330,7 @@ header .cover p {
     left: 35%;
 }
 .why .container div:nth-child(3) {
-    bottom: 70px;
+    bottom: 100px;
     right: 0;
 }
 .why .container div:nth-child(4) {
@@ -344,7 +344,6 @@ header .cover p {
     left: 220px;
     z-index: -1
 }
-
 .why .container img {
     width: 170px;
 }
@@ -368,7 +367,6 @@ header .cover p {
     font-size: 34px;
     font-weight: normal;
     position: absolute;
-
 }
 .why .container div:nth-child(4) p {
     left: 106px;
