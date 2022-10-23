@@ -69,15 +69,15 @@ header .nav i {
 }
 header button {
     border: none;
-    height: 30px;
-    width: 100px;
+    height: 36px;
+    width: 104px;
     border-radius: 15px;
     background-color: #fff;
     margin-top: 40px;
 }
 header button a {
     text-decoration: none;
-    font-size: 17px;
+    font-size: 18px;
     font-weight: bold;
     color: #9d7aba;
 }
