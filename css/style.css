@@ -182,8 +182,8 @@ header .cover p {
         margin-top: -40px;
     }
     header .nav img {
-        width: 100px;
-        height: 54px;
+        width: 130px;
+        height: 70px;
         margin-top: 20px;
     }
     header ul li {
@@ -246,8 +246,8 @@ header .cover p {
         display: none;
     }
     header .nav img {
-        width: 100px;
-        height: 54px;
+        width: 130px;
+        height: 70px;
         margin-top: 20px;
     }
     header ul li {
@@ -263,6 +263,7 @@ header .cover p {
         top: 45px;
         font-size: 25px;
         color: #9d7aba;
+        cursor: pointer;
     }
     header button {
         display: none;
